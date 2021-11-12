@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/wek22HW_blog/static/js/main.6b6f5c9f.chunk.js",
-    "main.js.map": "/wek22HW_blog/static/js/main.6b6f5c9f.chunk.js.map",
-    "runtime-main.js": "/wek22HW_blog/static/js/runtime-main.bbba8629.js",
-    "runtime-main.js.map": "/wek22HW_blog/static/js/runtime-main.bbba8629.js.map",
-    "static/js/2.da8fe4c4.chunk.js": "/wek22HW_blog/static/js/2.da8fe4c4.chunk.js",
-    "static/js/2.da8fe4c4.chunk.js.map": "/wek22HW_blog/static/js/2.da8fe4c4.chunk.js.map",
-    "static/js/3.e81cf4aa.chunk.js": "/wek22HW_blog/static/js/3.e81cf4aa.chunk.js",
-    "static/js/3.e81cf4aa.chunk.js.map": "/wek22HW_blog/static/js/3.e81cf4aa.chunk.js.map",
-    "index.html": "/wek22HW_blog/index.html",
-    "static/js/2.da8fe4c4.chunk.js.LICENSE.txt": "/wek22HW_blog/static/js/2.da8fe4c4.chunk.js.LICENSE.txt"
+    "main.js": "/wek22HW/static/js/main.6b6f5c9f.chunk.js",
+    "main.js.map": "/wek22HW/static/js/main.6b6f5c9f.chunk.js.map",
+    "runtime-main.js": "/wek22HW/static/js/runtime-main.875c4a49.js",
+    "runtime-main.js.map": "/wek22HW/static/js/runtime-main.875c4a49.js.map",
+    "static/js/2.06406d4b.chunk.js": "/wek22HW/static/js/2.06406d4b.chunk.js",
+    "static/js/2.06406d4b.chunk.js.map": "/wek22HW/static/js/2.06406d4b.chunk.js.map",
+    "static/js/3.e81cf4aa.chunk.js": "/wek22HW/static/js/3.e81cf4aa.chunk.js",
+    "static/js/3.e81cf4aa.chunk.js.map": "/wek22HW/static/js/3.e81cf4aa.chunk.js.map",
+    "index.html": "/wek22HW/index.html",
+    "static/js/2.06406d4b.chunk.js.LICENSE.txt": "/wek22HW/static/js/2.06406d4b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bbba8629.js",
-    "static/js/2.da8fe4c4.chunk.js",
+    "static/js/runtime-main.875c4a49.js",
+    "static/js/2.06406d4b.chunk.js",
     "static/js/main.6b6f5c9f.chunk.js"
   ]
 }
